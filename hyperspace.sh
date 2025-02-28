@@ -1,6 +1,4 @@
 channel_logo() {
-  echo -e '\033[0;31m'
-  echo -e '\e[0m'
   echo -e "\n\nПодпишись https://t.me/teapot_crypto
 }
 
