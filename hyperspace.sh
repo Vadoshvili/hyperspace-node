@@ -1,4 +1,4 @@
-channel_logo() { 
+ 
   echo -e "\n\nПодпишись https://t.me/teapot_crypto
 }
 
